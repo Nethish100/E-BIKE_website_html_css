@@ -1,0 +1,268 @@
+.g-e-r-o {
+    
+    height: 1024px;
+    display: flex;
+    position: relative;
+    
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .desktop2 {
+    
+    width: 1500px;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-image: linear-gradient(180deg, rgba(66, 164, 206, 1) 0%, rgba(255, 255, 255, 1) 42%);
+  }
+  .rectangle5 {
+    top: 19px;
+    left: 0px;
+    width: 1500px;
+    height: 38px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  
+  .text {
+    top: 33px;
+    left: 38px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text1 {
+    top: 33px;
+    left: 1328px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .svg {
+    left: 700px;
+    width: 157;
+    height: 114;
+    position: absolute;
+    border-radius:60%;
+  }
+  .image28 {
+    top: 135px;
+    left: 0px;
+    width: 778px;
+    height: 550px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 100px;
+  }
+  .image29 {
+    top: 730px;
+    left: 38px;
+    width: 422px;
+    height: 274px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 50px;
+  }
+  .image30 {
+    top: 730px;
+    left: 532px;
+    width: 400px;
+    height: 266px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 50px;
+  }
+  .image31 {
+    top: 730px;
+    left: 989px;
+    width: 420px;
+    height: 278px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 50px;
+  }
+  .text2 {
+    top: 150px;
+    left: 821px;
+    color: rgba(0, 0, 0, 1);
+   
+    height: auto;
+    position: absolute;
+    font-size: 58px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Glory;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text10 {
+    top: 260px;
+    left: 850px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inika;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text3 {
+    top: 305px;
+    left: 908px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inika;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text4 {
+    top: 350px;
+    left: 857px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inika;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text5 {
+    top: 395px;
+    left: 904px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inika;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .svg1 {
+    top: 350px;
+    left: 1100px;
+    width: 30;
+    height: 30;
+    position: absolute;
+    border-radius:50%;
+    
+  }
+  .svg2 {
+    top: 350px;
+    left: 1228px;
+    width: 30;
+    height: 30;
+    position: absolute;
+    border-radius:50%;
+  }
+  .svg3 {
+    top: 350px;
+    left: 1162px;
+    width: 30;
+    height: 30;
+    position: absolute;
+    border-radius:60%;
+  }
+  .svg4 {
+    top: 305px;
+    left: 851px;
+    width: 40;
+    height: 40;
+    position: absolute;
+  }
+  .svg5 {
+    top: 395px;
+    left: 851px;
+    width: 40;
+    height: 40;
+    position: absolute;
+  }
+  .svg6 {
+    top: 472px;
+    left: 851px;
+    width: 40;
+    height: 40;
+    position: absolute;
+  }
+  .svg7 {
+    top: 416px;
+    left: 851px;
+    width: 40;
+    height: 40;
+    position: absolute;
+  }
+  .text6 {
+    top: 440px;
+    left: 908px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Inika;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

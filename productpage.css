@@ -1,0 +1,291 @@
+.p-r-o-d-u-c-t-p-a-g-e {
+    height: 1024px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-image: linear-gradient(180deg, rgba(63, 158, 158, 1) 0%, rgba(217, 217, 217, 1) 100%);
+  }
+  .text {
+    top: 979px;
+    left: 243px;
+    color: rgba(65, 159, 159, 1);
+    width: 231px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text1 {
+    top: 287px;
+    left: 31px;
+    color: rgba(43, 35, 37, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text2 {
+    top: 633px;
+    left: 31px;
+    color: rgba(44, 36, 38, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .rectangle3 {
+    top: 314px;
+    left: 37px;
+    width: 282px;
+    height: 7px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 25px;
+    background-color: rgba(255, 246, 246, 1);
+  }
+  .SERO {
+    top: 567px;
+    left: 1214px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .XERO {
+    top: 567px;
+    left: 180px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .VERO {
+    top: 567px;
+    left: 530px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .GERO {
+    top: 567px;
+    left: 880px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .rectangle4 {
+    top: 660px;
+    left: 31px;
+    width: 282px;
+    height: 7px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 25px;
+    background-color: rgba(250, 243, 243, 1);
+  }
+  .text4 {
+    top: 980px;
+    left: 898px;
+    color: rgba(65, 159, 159, 1);
+    width: 231px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: italic;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 900px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .rectangle5 {
+    top: 128px;
+    left: 0px;
+    width: 1500px;
+    height: 38px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .text5 {
+    top: 142px;
+    left: 1220px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .image8 {
+    top: 368px;
+    left: 413px;
+    width: 319px;
+    height: 179px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .image10 {
+    top: 368px;
+    left: 1110px;
+    width: 310px;
+    height: 174px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .image11 {
+    top: 369px;
+    left: 34px;
+    width: 340px;
+    height: 178px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .image12 {
+    top: 682px;
+    left: 178px;
+    width: 430px;
+    height: 282px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .image13 {
+    top: 682px;
+    left: 776px;
+    width: 438px;
+    height: 282px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .text6 {
+    top: 142px;
+    left: 1037px;
+    color: rgba(19, 18, 18, 1);
+    width: 161px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .svg {
+    top: 6px;
+    left: 704px;
+    width: 157;
+    height: 114;
+    position: absolute;
+    border-radius: 60%;
+  }
+  .image32 {
+    top: 369px;
+    left: 788px;
+    width: 266px;
+    height: 188px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .home{
+    top: 142px;
+    left: 20px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700px;
+    line-height: 10px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
